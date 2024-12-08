@@ -28,4 +28,4 @@ Live at: [https://abhishekportfolio12.netlify.app/](https://your-portfolio-link.
 
 ## Contact
 - **Email**: [abhishekkumarada12@gmail.com](mailto:your-email@example.com)
-- **LinkedIn**: [(https://www.linkedin.com/in/abhishek-kumar-92157823a/)](https://linkedin.com/in/your-profile)
+- **LinkedIn**: [https://www.linkedin.com/in/abhishek-kumar-92157823a/](https://linkedin.com/in/your-profile)
