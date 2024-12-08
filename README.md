@@ -14,7 +14,7 @@ A responsive and modern personal portfolio website built with React to showcase 
 - Deployment: Vercel/Netlify
 
 ## Installation
-1. Clone: `git clone https://github.com/kumarabhishek188/personal-portfolio.git`
+1. Clone: `git clone https://github.com/kumarabhishek188/My-Portfolio.git`
 2. Install: `npm install`
 3. Run: `npm start` (Visit `http://localhost:3000`)
 
