@@ -27,5 +27,5 @@ Live at: [Your Portfolio Link](https://your-portfolio-link.com)
 - Connect with CMS for dynamic content.
 
 ## Contact
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- **Email**: [abhishekkumarada12@gmail.com](mailto:your-email@example.com)
+- **LinkedIn**: [(https://www.linkedin.com/in/abhishek-kumar-92157823a/)](https://linkedin.com/in/your-profile)
