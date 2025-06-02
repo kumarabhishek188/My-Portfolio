@@ -19,7 +19,7 @@ A responsive and modern personal portfolio website built with React to showcase 
 3. Run: `npm start` (Visit `http://localhost:3000`)
 
 ## Deployment
-Live at: [https://abhishekportfolio12.netlify.app](https://abhishekportfolio12.netlify.app)
+Live at: [https://abhishek-portfolio2025.netlify.app/](https://abhishek-portfolio2025.netlify.app/)
 
 ## Future Enhancements
 - Add blog section and animations.
