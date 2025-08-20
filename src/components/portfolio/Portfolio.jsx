@@ -7,7 +7,7 @@ import IMG4 from "../../assets/portfolio4.jpg";
 import IMG5 from "../../assets/portfolio5.jpg";
 import IMG6 from "../../assets/portfolio6.jpg";
 import IMG7 from "../../assets/portfolio7.jpg";
-import IMG8 from "../../assets/portfolio8.jpg";
+// import IMG8 from "../../assets/portfolio8.jpg";
 import IMG9 from "../../assets/portfolio9.jpg";
 import IMG10 from "../../assets/portfolio10.jpg";
 import IMG11 from "../../assets/portfolio11.jpg";
@@ -23,13 +23,13 @@ const data = [
     demo: "https://abhishekmedicaladapur.netlify.app/",
   },
 
-    {
-    id: 8,
-    image: IMG8,
-    title: "My Portfolio",
-    github: "https://github.com/kumarabhishek188/My-Portfolio",
-    demo: "https://abhishek-portfolio2025.netlify.app/",
-  },
+  //   {
+  //   id: 8,
+  //   image: IMG8,
+  //   title: "My Portfolio",
+  //   github: "https://github.com/kumarabhishek188/My-Portfolio",
+  //   demo: "https://abhishek-portfolio2025.netlify.app/",
+  // },
   
 
   {
@@ -132,10 +132,10 @@ const Portfolio = () => {
               </div>
               <h3>{title}</h3>
               <div className="portfolio__item-cta">
-                <a href={github} className="btn" target="_blank">
+                <a href={github} className="btn" target="_blank" rel="noreferrer">
                   Github
                 </a>
-                <a href={demo} className="btn btn-primary" target="_blank">
+                <a href={demo} className="btn btn-primary" target="_blank" rel="noreferrer">
                   Live Demo
                 </a>
               </div>

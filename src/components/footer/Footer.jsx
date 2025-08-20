@@ -10,7 +10,7 @@ const Nav = () => {
     <footer>
       <ul className="permalinks">
         <li>
-          <a href="#">Home</a>
+          <a href="#home">Home</a>
         </li>
         <li>
           <a href="#about">About</a>
