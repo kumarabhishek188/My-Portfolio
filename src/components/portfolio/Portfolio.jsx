@@ -132,10 +132,30 @@ const Portfolio = () => {
               </div>
               <h3>{title}</h3>
               <div className="portfolio__item-cta">
-                <a href={github} className="btn" target="_blank" rel="noreferrer">
+                <a
+                  href={github ? github : undefined}
+                  className="btn"
+                  target="_blank"
+                  rel="noreferrer"
+                  style={{
+                    pointerEvents: github ? 'auto' : 'none',
+                    opacity: github ? 1 : 0.5,
+                    cursor: github ? 'pointer' : 'not-allowed',
+                  }}
+                >
                   Github
                 </a>
-                <a href={demo} className="btn btn-primary" target="_blank" rel="noreferrer">
+                <a
+                  href={demo ? demo : undefined}
+                  className="btn btn-primary"
+                  target="_blank"
+                  rel="noreferrer"
+                  style={{
+                    pointerEvents: demo ? 'auto' : 'none',
+                    opacity: demo ? 1 : 0.5,
+                    cursor: demo ? 'pointer' : 'not-allowed',
+                  }}
+                >
                   Live Demo
                 </a>
               </div>
